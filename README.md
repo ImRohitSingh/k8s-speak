@@ -1,10 +1,10 @@
-# EKS Speak
+# K8S Speak
 
 A natural language interface for Kubernetes (with Amazon EKS support)
 
 ## Overview
 
-EKS Speak is a command-line tool that allows users to interact with Kubernetes clusters using plain English commands. It translates natural language queries into proper `kubectl` commands, making it easier for beginners to work with Kubernetes and for experienced users to speed up common operations.
+`k8s-speak` is a command-line tool that allows users to interact with Kubernetes clusters using plain English commands. It translates natural language queries into proper `kubectl` commands, making it easier for beginners to work with Kubernetes and for experienced users to speed up common operations.
 
 ## Features
 
